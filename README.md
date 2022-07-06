@@ -1,5 +1,4 @@
 # AI-Face-Mask-Detector
-# 얼굴 랜드마크 정보를 사용합니다.
 # [데이터셋](https://api.github.com/repos/prajnasb/observations/contents/experiements/data/without_mask?ref=master)
 
 # 얼굴 랜드마크 좌표를 이용해서 얼굴영역에 마스크 합성
