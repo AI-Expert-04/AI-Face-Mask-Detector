@@ -38,11 +38,7 @@
 >>> conda install -c conda-forge dlib==19.21.0
 >>> conda install cmake==3.19.6
 ```
-4. python 모듈 설치
 
-```
->>> pip install -r requirements.txt
-```  
 
 # [데이터셋](https://api.github.com/repos/prajnasb/observations/contents/experiements/data/without_mask?ref=master)
 
