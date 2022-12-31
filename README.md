@@ -24,7 +24,7 @@
 
 ```
 >>> pip install -r requirements.txt 
->>> (ace_recognition 설치가 안될경우)>>> pip install --no-dependencies face_recognition 
+(ace_recognition 설치가 안될경우)>>> pip install --no-dependencies face_recognition 
 >>> conda install -c conda-forge dlib==19.21.0
 >>> conda install cmake==3.19.6
 ```
