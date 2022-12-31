@@ -20,12 +20,24 @@
 >>> conda activate [가상환경 이름]-env
 ```
 
-3. 프로젝트 경로로 이동
+3. Window Pycharm Termainal에서 python 모듈 설치
 
 ```
->>> cd (프로젝트 경로)
+>>> pip install -r requirements.txt 
+>>> (ace_recognition 설치가 안될경우)>>> pip install --no-dependencies face_recognition 
+>>> conda install -c conda-forge dlib==19.21.0
+>>> conda install cmake==3.19.6
 ```
 
+3. Mac Pycharm Termainal에서 python 모듈 설치
+
+```
+>>> pip install -r Mac_requirements.txt 
+(ace_recognition 설치가 안될경우)>>> pip install --no-dependencies face_recognition 
+>>> conda install tensorflow
+>>> conda install -c conda-forge dlib==19.21.0
+>>> conda install cmake==3.19.6
+```
 4. python 모듈 설치
 
 ```
