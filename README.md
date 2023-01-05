@@ -47,4 +47,4 @@
 # 마스크 안쓴 이미지들을 train, vali로 나눔
 # 두개의 데이터셋으로 학습
 # 얼굴 찾는 모델 가져오기. [model](https://drive.google.com/file/d/1zypxcMVbZE_KzTf5vbDQobbllZRgSwKs/view)
-# 학습된 마스크 확인여부 모델, 얼굴 찾는 모델을 사용하여 최종 감지
+# 학습된 마스크 확인여부 모델, 얼굴 찾는 모델을 사용하여 최종 감지.
