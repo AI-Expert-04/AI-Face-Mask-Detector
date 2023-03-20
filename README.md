@@ -3,7 +3,7 @@
 ## 환경 설정
 
 1. Window conda 환경 생성 
-
+.
 ```
 >>> conda create -n [가상환경 이름]-env python=3.6
 ```
